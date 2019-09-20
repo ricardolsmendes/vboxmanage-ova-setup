@@ -1,5 +1,5 @@
 # vboxmanage-ova-setup
-Shell scripts to setup Oracle VirtualBox OVA-based virtual machines using only the VBoxManage CLI.
+Shell script to setup an Oracle VirtualBox OVA-based virtual machine using the VBoxManage CLI.
 
 ## Environment setup
 
